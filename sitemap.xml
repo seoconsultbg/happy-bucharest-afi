@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>meniu-restaurant-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>rezervare-restaurant-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>catering-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>livrare-mancare-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/cele-mai-bune-restaurante-din-bucurești-pentru-o-cina-romantica.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/ghid-pentru-rezervari-la-restaurante-în-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/top-10-specialitați-culinare-romanești-de-încercat-în-bucurești.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/cum-sa-alegi-restaurantul-perfect-pentru-evenimente-speciale.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/trenduri-culinare-în-restaurantele-bucureștene-2026.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2026-05-22T15:58:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
