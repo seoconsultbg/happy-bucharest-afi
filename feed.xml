@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Politica de confidențialitate">
+<meta name="DC.title" lang="en" content="Politica de confidențialitate">
+<meta name="description" content="<p>Restaurante București: top localuri, meniuri variate și recenzii.</p><p>Meniu restaurant București: descoperă preparate și oferte în restaurantele din București. Rezervări rapide.</p><p>Rezervă restaurant în București — cele mai bune restaurante, mese garantate rapid.</p><p>Catering București: servicii profesionale de la restaurante din București — meniuri personalizate pentru evenimente corporate și private.</p><p>Restaurante București: livrare mâncare rapidă, meniuri variate de la restaurante locale în toată capitala.</p>">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="privacy-policy.html">
+<link rel="shortcut icon"  href="img/logo.jpg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+<style type="text/css">
+  .b7a12dffab93acaec4dce63e45be6febe{
+font-size: 2rem !important;
+}
+.a85ef180e97cb2ccf9dafcd4ae09c3ce3 a,.d379e9239b1bfdf4e37be5d51a073d310 a{
+color:#020202!important;
+text-decoration: underline !important;
+}
+.yec94b1073cd40fd0f393de1fe57e0af7{
+transition: all 0.3s; 
+}
+.y01ea901311a49318fea6d8a266588831{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffd86a 0%, #ffc759 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+.zf60e588bf00ef8091fc1048e07180b41{
+width: 100%;
+max-height: 720px;
+object-fit: cover;
+object-position: center;
+display: block;
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+}
+.v6d1e0aeab590b0d25e2235eaef881f6f{
+max-height: 300px;
+overflow-y: auto;
+}
+.v21a4c6fcd779d377822e1148e902de59 .d71d9ee1287ad7e82552cae58561d2e88{
+margin-bottom: 1.5rem;
+}
+.v21a4c6fcd779d377822e1148e902de59 .row-item.ba83944d60cfd3223ab865ebec04ccf16{
+background: #c8c5c5;
+}
+.v21a4c6fcd779d377822e1148e902de59 .z15892ced3e1c458f721f55657db20316{
+background:#e6efeb!important;
+}
+.zdb785d798cf643ada5e830c374df6061{
+font-size: 20.1px;
+font-weight: bold;
+}
+.v21a4c6fcd779d377822e1148e902de59 .z15892ced3e1c458f721f55657db20316 *{
+color:#000000;
+}
+.v21a4c6fcd779d377822e1148e902de59 .c57805ed5e8ffa10b7227546ab3817753{
+background:#e6edf5!important ;
+}
+a{
+text-decoration: none;
+}
+.v21a4c6fcd779d377822e1148e902de59 h4{
+font-size:20px!important;
+}
+.v21a4c6fcd779d377822e1148e902de59 .be910bbc190b334e2c3b94bc6dbf4798e *{
+color:#000000;
+}
+.v21a4c6fcd779d377822e1148e902de59 .card-img{
+margin-bottom: 1.7rem;
+text-align: left;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card:last-child{
+margin-bottom: 0;
+}
+.fd0cfbb8afe04d701662f15bed84e04df{
+color: #515151;
+}
+.v21a4c6fcd779d377822e1148e902de59 .c57805ed5e8ffa10b7227546ab3817753 *{
+color:#000000;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-header{
+cursor: pointer;
+padding: 1.75rem 2rem;  
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+-ms-grid-row-align: center;
+align-items: center;
+-webkit-box-pack: justify;
+-ms-flex-pack: justify;
+justify-content: space-between;
+}
+.nav-link{
+color: #ffffff;
+
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-header .collapsed span{
+-webkit-transform: rotate(-180deg);
+transform: rotate(-180deg);
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2{
+position: relative;
+z-index: 1;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-body{
+padding: 1.75rem 2rem;
+background:#ffffff;
+}
+.wb982b104fb28122a6794114f90a6a1d0{
+position: relative;
+z-index: 1;
+}
+.v2b5ef035b099cbdeb925887e915390f9{
+background: rgba(0, 0, 0, 0.6);
+text-align: center;
+}
+.d379e9239b1bfdf4e37be5d51a073d310{
+background:#ffffff;
+}
+.btn-md{
+padding: 15.1px 30.2px;
+border-radius: 0;
+}
+*{
+font-family: 'Inconsolata', sans-serif;
+}
+.v21a4c6fcd779d377822e1148e902de59 .ba83944d60cfd3223ab865ebec04ccf16 *{
+color:#000000;
+}
+.v21a4c6fcd779d377822e1148e902de59 .row-item.c57805ed5e8ffa10b7227546ab3817753{
+background: #f3f1ed;
+}
+body{
+color: #252525;background-color:#ffffff!important
+}
+.yec94b1073cd40fd0f393de1fe57e0af7:hover{
+box-shadow: 0 49.9px 49.7px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+footer{
+background:#eaeaea;
+color:#030303;
+}
+.c57805ed5e8ffa10b7227546ab3817753 *{
+color:#000000;
+}
+html{
+scroll-behavior: smooth;
+}
+.v21a4c6fcd779d377822e1148e902de59 .be910bbc190b334e2c3b94bc6dbf4798e{
+background:#f0e0e0!important;
+}
+.ya1f9c01b159f1cae2b3b2f008fa9562f{
+text-decoration: underline!important;color:#5fc263!important
+}
+.z0d8539dbfe858b772ff02b24f04385d0{
+background-color: #000000;
+font-size: 30.3px;
+height: 55.5px;
+min-width: 55.8px;
+padding: 0.7rem;
+padding-top: 13.1px;
+color: #fff !important;
+border: 1px solid #040404;
+border-radius: 50%;
+}
+.v2b5ef035b099cbdeb925887e915390f9 *{
+color: white !important;
+}
+.cf10da2ef32143003c7ef7b2abb775a6d{
+font-size: 48px!important;
+}
+.navbar{
+background: black;padding-top:3px;padding-bottom:3px;position:fixed;top:0;width:100%;z-index:10000
+}
+.za50c5db4c44ac16da492161fd3ea81fe{
+font-size:48px!important;
+}
+.d379e9239b1bfdf4e37be5d51a073d310 p,.d379e9239b1bfdf4e37be5d51a073d310 span,.d379e9239b1bfdf4e37be5d51a073d310 label{
+font-size:19px!important;
+}
+iframe{
+border: none!important;
+}
+.v21a4c6fcd779d377822e1148e902de59 .ba83944d60cfd3223ab865ebec04ccf16{
+background:#f9ebdc!important;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-header span{
+font-size: 1.5rem;
+}
+.navbar a{
+font-size: 15.5px!important;text-decoration: none;text-transform:uppercase;
+font-weight: bold;
+}
+.y77fbae72f5abe6fad3df2e23c2ec7abe{
+color: #999999;
+font-size: 19.8px;
+margin-bottom: 21.5px;
+}
+.b92b6dc80e87f141bfe1d35abb4dcd942 i{
+border-radius: 50%;
+width: 37.2px;
+line-height: 35px;
+text-align: center;
+height: 36.7px;
+}
+.w1b48d9b6d33c66930d371dca23c17745{
+position: relative;
+min-height: 600px;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-header .collapsed{
+color: #090c59;
+}
+.v21a4c6fcd779d377822e1148e902de59 .row-item.z15892ced3e1c458f721f55657db20316{
+background: #fae7e5;
+}
+footer *{
+font-size:19px !important;
+}
+.v21a4c6fcd779d377822e1148e902de59 .row-item.be910bbc190b334e2c3b94bc6dbf4798e{
+background: #bcd9df;
+}
+.a85ef180e97cb2ccf9dafcd4ae09c3ce3 p,.a85ef180e97cb2ccf9dafcd4ae09c3ce3 a,.a85ef180e97cb2ccf9dafcd4ae09c3ce3 span,.a85ef180e97cb2ccf9dafcd4ae09c3ce3 label{
+font-size:19px!important;
+}
+.be910bbc190b334e2c3b94bc6dbf4798e{
+background:#ffffff!important ;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card .card-body p:last-child{
+margin-bottom: 0;
+}
+.v21a4c6fcd779d377822e1148e902de59 p,.{special_content1_class} a,.v21a4c6fcd779d377822e1148e902de59 label{
+font-size:18px!important;
+}
+.a85ef180e97cb2ccf9dafcd4ae09c3ce3{
+background:#ffffff;
+color:#020202;
+}
+a:hover{
+color:#ffffff;background:#4caf50!important;
+}
+footer a{
+color:#030303;
+text-decoration: underline;
+}
+.b92b6dc80e87f141bfe1d35abb4dcd942 i:hover{
+background: white;
+color: #ffffff;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 36.9px;
+text-align: center;
+height: 36.8px;
+}
+.navbar-toggler span{
+display: flex;
+align-items: center;
+color:white;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
+}
+.d379e9239b1bfdf4e37be5d51a073d310 a{
+font-size:19px;
+}
+.ea7b743269e72eaf16e1e73327ef298d3{
+font-size:19px!important;
+color: #727272;
+}
+.v21a4c6fcd779d377822e1148e902de59 .row-item{
+padding: 3rem;
+padding-top: 3.7rem;
+height: 100%;
+}
+.nav-item{
+padding-left:8.1px;
+padding-right:8.1px;
+padding-top:5.3px;
+padding-bottom:4.8px;
+}
+.b9bce02e9f2a253b8ff39c4974beb7487:hover,.y01ea901311a49318fea6d8a266588831:hover{
+background-size: 100% 100% !important;
+background: #4caf50!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
+}
+.wa79bf44d316a7654d3d968a4b6b0b5c2 .card{
+position: relative;
+z-index: 1;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+margin-bottom: 1.5rem;
+}
+.b6625e6dcf66fe379fe6591ce0f92b818{
+font-size: 14.2px;
+}
+ </style>
+<style type="text/css"> 
+   .parallax-background {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 500px; /* Adjust as needed */
+    width: 100%;
+    overflow: hidden;
+
+    border-radius: 20px;
+}
+
+
+.parallax-content {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding:20px 40px;
+    margin: 50px auto; /* Creates space for parallax effect */
+    max-width: 80%;
+    border-radius: 5px;
+    position: relative;
+    z-index: 2;
+}
+@media only screen and (max-width:1000px) {
+.w1b48d9b6d33c66930d371dca23c17745 img{
+position: initial!important;
+}
+.w1b48d9b6d33c66930d371dca23c17745 {
+  min-height: auto;
+}
+.za50c5db4c44ac16da492161fd3ea81fe {
+font-size: 20px;
+}
+.y77fbae72f5abe6fad3df2e23c2ec7abe {
+font-size: 15px !important;
+}
+.y70a17613090139982ed7d5180179bc7d{
+padding-bottom: 0px !important;
+}
+} 
+.content-image-below {
+    margin: 20px 0;
+    text-align: center;
+}
+.image-align-left ol,.image-align-left ul{
+  margin-left: 51%;
+}
+ 
+/* For background image */
+.content-with-bg-image {
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    position: relative;
+}
+
+.content-over-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+.content-image-below img,.content-with-side-images img,{
+  max-height: 500px!important;
+
+}
+ 
+ 
+
+/* Text container */
+.text-container {
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 1rem;
+}
+ 
+
+ /* Main content container */
+.content-with-side-images {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Headers should always be full width */
+.content-with-side-images h4 {
+    width: 100%;
+    clear: both;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* Regular paragraphs should be full width by default */
+.content-with-side-images p {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+/* Image-text pair container */
+.image-text-pair {
+    width: 100%;
+    margin:  0px 0;
+   
+}
+
+/* Image container - floated */
+.image-container {
+    width: 50%;
+    
+    box-sizing: border-box;
+ 
+}
+.image-container img:hover{
+
+box-shadow: 0 49.6px 50.3px -25px rgb(0 0 0 / 30%);
+    transform: rotate(-2deg) scale(1.03);
+}
+.image-container img{
+transition: all 0.3s;
+}
+
+/* Left-aligned image */
+.image-align-left .image-container {
+    float: left;
+    margin-right: 20px;
+    margin-left: 0;
+    padding-right: 40px;
+}
+
+/* Right-aligned image */
+.image-align-right .image-container {
+    float: right;
+    margin-left: 20px;
+    margin-right: 0;
+
+    padding-left: 40px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ 
+
+/* Clearfix */
+.clearfix {
+    clear: both;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+    .image-container {
+        width: 100%;
+        float: none !important;
+        margin: 0 0 20px 0 !important;
+        padding: 0;
+    }
+    
+    .text-flow {
+        display: block;
+    }
+} 
+  
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0px;
+    left: 100%;
+    margin-top: -16px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+  
+}
+
+/* Smart positioning for right-edge dropdowns */
+.dropdown-menu-right .dropdown-submenu>.dropdown-menu,
+.nav-item:last-child .dropdown-submenu>.dropdown-menu,
+.nav-item:nth-last-child(2) .dropdown-submenu>.dropdown-menu {
+    left: auto;
+    right: 100%;
+    margin-left: 0;
+    margin-right: -1px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+/* For left-positioned dropdowns, reverse the arrow */
+.dropdown-menu-right .dropdown-submenu>a:after,
+.nav-item:last-child .dropdown-submenu>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu>a:after {
+    float: left;
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-right-color: #ccc;
+    margin-left: -10px;
+    margin-right: 0;
+}
+
+.dropdown-menu-right .dropdown-submenu:hover>a:after,
+.nav-item:last-child .dropdown-submenu:hover>a:after,
+.nav-item:nth-last-child(2) .dropdown-submenu:hover>a:after {
+    border-right-color: #fff;
+    border-left-color: transparent;
+}
+ 
+
+.multi-column-dropdown .dropdown-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .multi-column-dropdown {
+      
+        width: 100%;
+    }
+    
+    .dropdown-submenu>.dropdown-menu {
+        position: static;
+        margin: 0;
+        border: none;
+        box-shadow: none;
+    }
+}
+.accordion .card{
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.accordion .card-header{
+background: white;
+}
+.accordion h4{
+  font-size: 1.3rem;
+}
+/* Use hover only where it exists */
+@media (hover:hover) {
+  .dropdown-submenu:hover > .dropdown-menu { display:block; }
+}
+
+/* Nested dropdowns should show when .show is present (Bootstrap only sets this for top-level) */
+.dropdown-menu .dropdown-menu { display:none; }
+.dropdown-menu .dropdown-menu.show { display:block; }
+
+/* Mobile layout: stack submenus and remove weird offsets */
+@media (max-width: 991.98px) {
+  .dropdown-menu {
+    position: static;          /* keeps the menu within the flow so it won't render off-screen */
+    float: none;
+    margin: 0;
+    box-shadow: none;
+    border: 0;
+  }
+  .dropdown-submenu > .dropdown-menu {
+    margin-left: 0;
+    max-height: 60vh;          /* scroll if long */
+    overflow-y: auto;
+  }
+}
+a{
+  color: black;
+  text-decoration: underline;
+}
+.tag,h3,h2 {
+  background-color: #000;
+  color: #fff!important; 
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+ width: fit-content;
+
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 20px;
+ }
+
+</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg"  width="30px" ></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center w-100 justify-content-around d-flex navbar-nav"><li class="nav-item"><a class="nav-link b9bce02e9f2a253b8ff39c4974beb7487" href="news.html" rel="nofollow" >Știri</a></li>
+  
+<li class="dropdown nav-item ">
+<a class="nav-link b9bce02e9f2a253b8ff39c4974beb7487 dropdown-toggle" href="index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Restaurante București</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="index.html"  >Restaurante București</a>
+  
+<li class="nav-item dropdown ">
+<a class="b9bce02e9f2a253b8ff39c4974beb7487 nav-link dropdown-toggle" href="meniu-restaurant-bucurești.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Meniu restaurant București</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="meniu-restaurant-bucurești.html"  >Meniu restaurant București</a>
+  
+<li class=" dropdown nav-item">
+<a class="dropdown-toggle nav-link b9bce02e9f2a253b8ff39c4974beb7487" href="rezervare-restaurant-bucurești.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Rezervare restaurant București</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="rezervare-restaurant-bucurești.html"  >Rezervare restaurant București</a>
+  
+<li class="dropdown  nav-item">
+<a class="b9bce02e9f2a253b8ff39c4974beb7487 dropdown-toggle nav-link" href="catering-bucurești.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Catering București</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="catering-bucurești.html"  >Catering București</a>
+  
+<li class="dropdown nav-item ">
+<a class="nav-link b9bce02e9f2a253b8ff39c4974beb7487 dropdown-toggle" href="livrare-mancare-bucurești.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Livrare mâncare București</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="livrare-mancare-bucurești.html"  >Livrare mâncare București</a>
+<li class="nav-item"><a class="b9bce02e9f2a253b8ff39c4974beb7487 nav-link" rel=nofollow href="about-us.html">Despre noi</a>
+</li><li class="nav-item">
+<a class="nav-link" href="https://happy.ro/about" rel="nofollow">Contact</a>
+</li>
+</ul>
+</div>
+</nav>
+<section class="container" style="min-height: 80vh; margin-top: 100px;">
+<h1>Politica de confidențialitate for Happy Bucharest</h1>
+<p>At Happy Bucharest one of our main priorities is the privacy of our visitors.
+ This Politica de confidențialitate document contains types of information that is collected and recorded by Happy Bucharest and how we use it. You can check out our main website here: https://happy.ro</p>
+<p>If you have additional questions or require more information about our Politica de confidențialitate, do not hesitate to contact us.</p>
+<p>This Politica de confidențialitate only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Happy Bucharest. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Politica de confidențialitate and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Happy Bucharest, address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p>Happy Bucharest follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Politica de confidențialitate for each of the advertising partners of Happy Bucharest.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Happy Bucharest, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Happy Bucharest has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>Happy Bucharest's Politica de confidențialitate does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p>Happy Bucharest does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+Happy Bucharest</br>
++40 731 234 524</br>
+</br>
+București</br>
+Sector 6</br>
+https://happy.ro</br>
+info@happy.ro</br>
+</p>
+</section>
+<footer>
+<div class="container pt-5 py-4" >
+<div class="row"><div class="col-lg-3">
+<p>Happy Bucharest</p>
+<p>Telefon : +40 731 234 524</p>
+<p>Email : info@happy.ro</p>
+<p>Oras : București</p>
+<p>Judet : Sector 6</p>
+<p>Cod poștal : 061346</p>
+<p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="https://maps.app.goo.gl/dvtXRGi7YGw6jAzk7" rel="nofollow"> Profil Google Business</a></p>
+<p>Website companie : <a class="b9bce02e9f2a253b8ff39c4974beb7487" href="https://happy.ro" rel="nofollow">https://happy.ro</a></p>
+</div><div class="col-lg-3">
+<p>Linkuri utile</p><p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="https://happy.ro/menu"  target="_blank">Meniu</a></p><p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="https://happy.ro/rezervari"  target="_blank">Rezervări</a></p><p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="https://happy.ro/locatii"  target="_blank">Locații</a></p></div><div class="col-lg-3"><p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="sitemap.html" rel="nofollow">Hartă site</a></p>
+<p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="privacy-policy.html" rel="nofollow">Politica de confidențialitate</a></p>
+<p><a class="b9bce02e9f2a253b8ff39c4974beb7487" href="about-us.html" rel="nofollow">Despre noi</a></p>
+<div class="col-lg-12">
+<img class="img-fluid yec94b1073cd40fd0f393de1fe57e0af7" src="img/2a9a0065.jpg" alt="">
+</div>
+</p>
+</div><div class="col-lg-3">
+<div>
+<p>Urmărește-ne</p>
+<a href="https://www.facebook.com/HappyRestaurantsRomania" class="facebook b92b6dc80e87f141bfe1d35abb4dcd942" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/happyrestaurants.ro/" class="google b92b6dc80e87f141bfe1d35abb4dcd942-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+</div>
+</div></div>
+</div>
+</footer>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
+ <script>
+(function() {
+  // Works with both BS4 (data-toggle events) and BS5
+  var $ = window.jQuery;
+
+  // Toggle nested submenu on click/tap
+  $(document).on('click', '.dropdown-submenu > a', function(e) {
+    var $toggle = $(this);
+    var $submenu = $toggle.next('.dropdown-menu');
+
+    // If there isn't a submenu, behave like a normal link
+    if (!$submenu.length) return;
+
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Close sibling submenus at the same level
+    $toggle.parent('.dropdown-submenu')
+      .siblings('.dropdown-submenu')
+      .find('>.dropdown-menu.show')
+      .removeClass('show');
+
+    // Toggle this submenu
+    $submenu.toggleClass('show');
+
+    // Keep parent dropdown open
+    $toggle.closest('.dropdown-menu').addClass('show');
+
+    // Accessibility state
+    $toggle.attr('aria-expanded', $submenu.hasClass('show') ? 'true' : 'false');
+  });
+
+  // When the top-level dropdown closes, close all nested submenus
+  $(document).on('hidden.bs.dropdown', '.dropdown', function() {
+    $(this).find('.dropdown-menu.show').removeClass('show');
+  });
+})();
+</script>
+</body>
+</html>
